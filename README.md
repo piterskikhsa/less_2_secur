@@ -18,6 +18,7 @@
     DB_USER=полученный_пользователь
     DB_PASS=полученный_пароль
     SECRET_KEY=сгенерированный_SECRET_KEY
+    DEBUG=False или True
 ```
 
 
